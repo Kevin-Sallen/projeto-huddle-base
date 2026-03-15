@@ -1,0 +1,3 @@
+# Coloquem informações do projeto aqui!
+
+Essse e um projeto do Frontendmentor, foi feito com html, usando header main e foot, e css sendo utilizado o flaxbox para colocar as coisas em seus lugares aproximados, usei duas midias querer, uma para telemovel, e uma outra acima de 768 px que nomiei como tablete pois eu nao estava gostando  da quebra quando reduzia a tela. feito tambem o hover em cima dos butoes, alterei a cor do hover da parte social pois estava achando muito apagada
